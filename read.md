@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/lazylad99/amazon-e-commerce-product-and-review-dataset?resource=download
